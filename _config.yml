@@ -1,0 +1,28 @@
+name: IKIGAI - Worth Living For
+favicon: null
+layout_spectrum: 0.25294914189726114
+typography_spectrum: 0.8339711390435696
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5327465024311095
+  lightness: 0.6283071828074753
+  saturation: 0.32162198005244136
+  rhythmicContrast: 0.7920866555068642
+purpose: []
